@@ -1,0 +1,3 @@
+mongoaadi
+
+mongodb+srv://Aaditya:<password>@cluster0.qpbqksx.mongodb.net/?retryWrites=true&w=majority
